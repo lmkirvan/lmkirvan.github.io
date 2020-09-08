@@ -18,3 +18,5 @@ navbar:
 output:
   html_document:
     theme: paper
+    css: 'styles.css'
+
