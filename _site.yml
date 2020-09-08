@@ -1,0 +1,20 @@
+name: "Lewis Kirvan"
+output_dir: "."
+pagetitle: "lewbags"
+navbar:
+  title: "Lewis Kirvan"
+  left:
+    - text: "Writing"
+      href: writing.html
+    - text: "Programming"
+      href: programming.html
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/lmkirvan
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/lewbags
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+output:
+  html_document:
+    theme: paper

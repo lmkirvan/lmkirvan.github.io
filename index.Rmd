@@ -1,0 +1,9 @@
+---
+---
+
+<img src="images/lewis.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+I'm lawyer by training but have spent the last several years using R to do analytical work at a federal agency. Lots of my work involves analyzing large volumes of text, such as the [consumer complaint database](https://www.consumerfinance.gov/data-research/consumer-complaints/). 
+
+I'm not sure if I'm a 'real' programmer, but I am interested in some computing related stuff ()
+

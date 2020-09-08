@@ -1,0 +1,12 @@
+---
+---
+
+Most of my projects are behind the work wall but some stuff is up on my public (github page)[https://github.com/lmkirvan]. 
+
+Here are some things I've worked on. 
+
+- Building applications for qualitative data analyis using topic modeling. 
+
+- Mining textual time series
+
+- Hierarchical times series models  
