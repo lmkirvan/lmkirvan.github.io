@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-Most of my projects are behind the work wall but some stuff is up on my public (github page)[https://github.com/lmkirvan]. 
+Most of my projects are behind the work wall but some stuff is up on my public [github page](https://github.com/lmkirvan/lmkirvan.github.io). 
 
 Here are some things I've worked on. 
 
